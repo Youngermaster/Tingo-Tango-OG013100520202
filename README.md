@@ -12,7 +12,7 @@ This project is made for a **Procesos de gestión humana**'s activity, **Proceso
 
 ### The person selected has to answer a question like this:
 
-If you want to read all the questions follow this [link](https://github.com/Youngermaster/Tingo-Tango-OG013100520202/assets/pdf/questions.pdf).
+If you want to read all the questions follow this [link](https://github.com/Youngermaster/Tingo-Tango-OG013100520202/blob/master/assets/pdf/questions.pdf).
 
 <img src="assets/img/1.png" width="300" height="169"/>
 
