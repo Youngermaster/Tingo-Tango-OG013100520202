@@ -1,16 +1,19 @@
-# tingo_tango_og013100520202
+# Tingo Tango OG013100520202
 
-A new Flutter project.
+This project is a simulation for the classic game from Colombia **Tingo Tango** made on Flutter, and this game given a list of people selects a random person.
 
-## Getting Started
+This project is made for a **Procesos de gestión humana**'s activity, **Procesos de gestión humana** is a college subject and is indentified at **EAFIT University** with the code **OG013100520202**.
 
-This project is a starting point for a Flutter application.
+## Captures
 
-A few resources to get you started if this is your first Flutter project:
+<img src="assets/img/web.gif" width="300" height="169"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="assets/img/mobile.gif" width="300" height="169"/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### The person selected has to answer a question like this:
+
+If you want to read all the questions follow this [link](https://github.com/Youngermaster/Tingo-Tango-OG013100520202/assets/pdf/questions.pdf).
+
+<img src="assets/img/1.png" width="300" height="169"/>
+
+<img src="assets/img/2.png" width="300" height="169"/>
